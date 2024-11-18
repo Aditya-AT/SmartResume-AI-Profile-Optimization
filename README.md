@@ -1,1 +1,1 @@
-# martResume-AI-Profile-Optimization
+# SmartResume-AI-Profile-Optimization
